@@ -1,0 +1,25 @@
+.warning {
+  border: 4px ridge #f00;
+  background-color: #ff0;
+  padding: .2rem;
+  display: flex;
+  flex-direction: column; 
+}
+
+.warning p {
+  font: small-caps bold 1.0rem sans-serif;
+  text-align: center;
+}
+
+.forest {
+  border: 10px ridge #1c5f3f;
+  background-color: #75bc20;
+  padding: 0.2rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.forest p {
+  font: bold 1.0rem sans-serif;
+  text-align: center;
+)
